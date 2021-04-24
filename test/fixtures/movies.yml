@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  movie_type: MyString
+  Censor: 1
+  authors: one
+
+two:
+  name: MyString
+  description: MyString
+  movie_type: MyString
+  Censor: 1
+  authors: two
